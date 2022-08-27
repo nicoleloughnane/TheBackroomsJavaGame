@@ -1,5 +1,6 @@
 # The Backrooms Java Game
-My text based adventure game is based on the game play style of Zork and the Internet legend of The Backrooms (a psychological horror)
+My text based adventure game is based on the game play style of Zork and the Internet legend of The Backrooms (a psychological horror most notably expanded 
+upon by Kane Pixels YouTube series which heavily inspired my writing). 
 
 Zork was a classic 80s text adventure which boasted several sequels. It was written in MDL (Muddle). 
 
